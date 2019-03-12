@@ -1,8 +1,8 @@
 Signatura Sequencer contract
 =========
 
-Truffle version: 5.0.5
-Solidity: 0.5.0
+- Truffle: 5.0.5
+- Solidity: 0.5.0
 
 ### Create .env file with:
 ```
