@@ -1,0 +1,28 @@
+{
+  "name": "signatura-sequencer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "npm": "^6.9.0",
+    "truffle-hdwallet-provider": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consentio-inc/sequencer-contract.git"
+  },
+  "author": "signatura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/consentio-inc/sequencer-contract/issues"
+  },
+  "homepage": "https://github.com/consentio-inc/sequencer-contract#readme"
+}
